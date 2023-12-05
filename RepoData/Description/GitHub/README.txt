@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🧠️✒️📔️ The official core source repository for the NUNIX ManuType text editor, a brain-based text editor and the official text editor of the NUNIX operating system project.
